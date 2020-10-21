@@ -1,9 +1,13 @@
 [
     {
         "autoActivateOnIdentityCreation": true,
+        "id": "z2x9WjwlgwvlXZC0vkP34w",
         "name": "SourceCred",
         "periods": [
-          {"startTime": "2020-09-20", "weight": 0.05}
+            {
+                "startTime": "2020-09-20",
+                "weight": 0.05
+            }
         ]
     }
 ]
